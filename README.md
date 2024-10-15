@@ -1,8 +1,28 @@
-# React + Vite
+# Project Setup Instructions - Interview / SE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Clone the repository:
 
-Currently, two official plugins are available:
+   ```Terminal
+   git clone https://github.com/Darshan-Pandya10/Interview-15-10-SE.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   ```
+
+2. Install the dependencies:
+
+   ```Terminal
+   npm install
+
+   ```
+
+3. Start the development server:
+
+   ```Terminal
+   npm run dev
+
+   ```
+
+4. Open your browser and visit:
+
+   ```Terminal
+   http://localhost:5173
+   ```
